@@ -23,13 +23,13 @@ Les environnements de développement intégrés sont souvent composés :
 -	Outils permettant la génération de documentation (JavaDoc)
 
 
-# Présentation des Outils pouvant composer un IDE
+# Présentation des outils pouvant composer un IDE
 Un IDE permet la réalisation de projets simples, mais peut étendre ses possibilités de création et se complexifier avec d'  autres outils.
 
 ## Les bases de données
 Certains IDE permettent par exemple l'intégration d'outils permettant la manipulation de bases de données. 
 
-# Presentation d'IDE sur serveur
+# Présentation d'IDE sur serveur
 Les IDE installés sur serveurs permettent la programmation à partir de n’importe quelle machine. Ils réclament peu de ressources, simplifient le travail collaboratif et la configuration.
 Voici la présentation de deux d'entre eux, on priviligera des IDE supportant JAVE J2E.
 
@@ -41,7 +41,7 @@ Il permet le dépôt et est compatible avec les commandes GIT.
 Codenvy propose la collaboration en temps réel avec des espaces de travail provisoires accessibles par plusieurs utilisateurs.
 Il autorise le travail sur un mini Shell mais ne propose aucun ssh.
 ### Lien de l'outils
-* [Condevy](https://codenvy.com/)
+* [Codenvy](https://codenvy.com/)
 
 ## Cloud9
 Il possède un lien avec les répertoires GitHub et BitBucket et a été conçu pour programmer en Java Script, même s’il peut supporter plusieurs autres langages.
